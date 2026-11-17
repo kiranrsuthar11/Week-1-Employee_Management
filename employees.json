@@ -1,0 +1,22 @@
+[
+    {
+        "id": "101",
+        "name": "amit joshi",
+        "age": 23,
+        "department": "IT",
+        "role": "java developer",
+        "salary": 4200.0,
+        "joining_year": 2026,
+        "status": "Active"
+    },
+    {
+        "id": "103",
+        "name": "riya sharma",
+        "age": 24,
+        "department": "HR",
+        "role": "HR",
+        "salary": 50000.0,
+        "joining_year": 2023,
+        "status": "Active"
+    }
+]
